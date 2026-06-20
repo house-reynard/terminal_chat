@@ -4,6 +4,10 @@ Terminal Chat is a personal learning project created to explore real-time messag
 
 Inspired by tools like Yazi, a fast terminal file manager designed for keyboard-centric users, Terminal Chat aims to provide a lightweight messaging experience without relying on browsers or traditional desktop applications.
 
+## Preview
+
+![terminal chat application](./assets/image.png)
+
 ## Tech Stack
 
 * **Go** - Backend and client implementation
@@ -11,6 +15,10 @@ Inspired by tools like Yazi, a fast terminal file manager designed for keyboard-
 * **WebSockets** - Real-time communication
 * **Bubble Tea** - Terminal user interface framework
 * **Lip Gloss** - Terminal styling
+
+## Status
+
+This project is currently under active development.
 
 ## Why This Project?
 
@@ -52,26 +60,7 @@ This project is primarily focused on learning:
 
 Terminal Chat is intentionally simple. It serves as a practical environment for experimenting with networking concepts, messaging systems, and terminal application development.
 
-## Status
-
-This project is currently under active development.
-
 Expect breaking changes, unfinished features, questionable design decisions, and plenty of experimentation as I learn and improve the project.
-
-## Learning Objectives
-
-This repository exists as a learning journey as much as it does a chat application.
-
-Some of the topics being explored include:
-
-* WebSocket protocols
-* Real-time system design
-* Database schema design
-* Terminal application architecture
-* State management
-* Go concurrency patterns
-* Authentication workflows
-* Network reliability
 
 ## Inspiration
 
